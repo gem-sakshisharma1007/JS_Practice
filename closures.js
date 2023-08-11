@@ -14,6 +14,9 @@ console.log(z)
 //we have our lines of code.
 z(); 
 
+
+
+
 // function func1(){
 //     var b = 10;
 //     function func2(){
@@ -48,3 +51,5 @@ func3();
 // -maintaining state in sync world   
 // -setTimeouts 
 // -Iterators
+
+
