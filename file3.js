@@ -55,10 +55,10 @@ let eg2= 67;
 console.log(eg2);
 
 //illegal shadowing
-let eg4= 89;
-{
-    var eg4 =56;
-}
+// let eg4= 89;
+// {
+//     var eg4 =56;
+// }
 
 //valid
 var eg5 = 89;
